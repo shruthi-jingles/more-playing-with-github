@@ -23,6 +23,12 @@ summary(cars)
 <<<<<<< HEAD
 # Hi I just added a line here
 ```
+
+```{r redoing cos I made a mistake last time - fork and clone}
+
+# So last time I made a change I accidentally committed it to aleza/master. Now I'm committing to my branch within my fork.
+
+```
 =======
 
 # adding a random line of code
