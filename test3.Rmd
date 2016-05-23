@@ -23,6 +23,12 @@ summary(cars)
 <<<<<<< HEAD
 # Hi I just added a line here
 ```
+
+```{r trying to use fork and clone SR}
+
+# Apparently, doing it this way can help me work keeping the work private, so trying it out
+
+```
 =======
 
 # adding a random line of code
