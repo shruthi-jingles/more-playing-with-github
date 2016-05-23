@@ -20,8 +20,17 @@ summary(cars)
 ```
 
 ```{r SR code}
+<<<<<<< HEAD
 # Hi I just added a line here
 ```
+=======
+
+# adding a random line of code
+
+```
+
+
+>>>>>>> Changes-shruthi
 ## Including Plots
 
 You can also embed plots, for example:
